@@ -1,0 +1,15 @@
+26th March 2023
+Web Development
+HTML, CSS, JavaScript, BootStrap, PHP, SQL, Git
+
+Requirements for Students
+Laptop or Desktop - recommended
+External Keyboard
+Notebook - for taking notes
+live server
+
+HTML
+Basic structure of web page
+Tags
+Images anchor tag
+
